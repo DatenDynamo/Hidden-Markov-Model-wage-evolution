@@ -6,3 +6,4 @@ bachelor's thesis titled "Statistical analyses for time series modeling of wage 
 The code primarily revolves around the implementation and visualization of Hidden Markov Models to analyze and predict wage changes over time.
 
 ![](https://github.com/DatenDynamo/Hidden-Markov-Model-wage-evolution/blob/main/optimierung2_1_optimiert.gif)
+![](https://github.com/DatenDynamo/Hidden-Markov-Model-wage-evolution/blob/main/2023_Zeitreihe_Entgelt_Beobachtung_mitProg.svg)
